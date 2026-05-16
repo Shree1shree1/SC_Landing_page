@@ -199,7 +199,7 @@ h1,h2,h3,h4{
 
 .card-left{
     left:40px;
-    width: 300px;
+    /* width: 300px; */
     top:50%;
     transform: translateY(-50%);
 
@@ -207,7 +207,7 @@ h1,h2,h3,h4{
 
 .card-right{
     right: 40px;
-    width: 300px;
+    /* width: 300px; */
     bottom: 15%;
     transform: translateY(-50%);
 }
